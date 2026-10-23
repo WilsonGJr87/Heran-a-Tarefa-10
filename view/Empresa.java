@@ -1,5 +1,5 @@
 package view;
-import model.*;
+import model.ex1.*;
 
 public class Empresa {
     public static void main(String[] args) {

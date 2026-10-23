@@ -1,4 +1,4 @@
-package model;
+package model.ex1;
 
 public class Vendedor implements Funcionario {
 
